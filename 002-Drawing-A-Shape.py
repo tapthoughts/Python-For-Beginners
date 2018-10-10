@@ -1,0 +1,8 @@
+print(" _______")
+print("|      /|")
+print("|     / |")
+print("|    /  |")
+print("|   /   |")
+print("|  /    |")
+print("| /     |")
+print("|/______|")
