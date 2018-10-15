@@ -2,6 +2,7 @@
 print(2)
 print(3.4335)
 print(-2.343)
+print(3.433-43.43)
 print("")
 
 
