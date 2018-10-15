@@ -1,6 +1,6 @@
 colour = input("name a color:")
 flower = input("name of a flower in plural:")
-number = input("mention a no.:")
+number = int(input("mention a no.:"))
 shape = input("mention a shape:")
 print("")
 
