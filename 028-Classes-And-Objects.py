@@ -1,4 +1,4 @@
-# name, course, etc are classes here
+# Student is a class here
 # Self refers to the objects (Here student1, student2, etc)
 
 
