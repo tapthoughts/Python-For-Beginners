@@ -15,9 +15,10 @@ print(result)
 print("")
 
 
-# Without using return sttement
+# Without using return statement
 def cube3(num):
     print(num*num*num)
 
+    
 cube3(5)
 print("")
